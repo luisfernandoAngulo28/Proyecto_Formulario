@@ -1,0 +1,10 @@
+C:\Users\ferna\source\repos\Video\CApp\CApp\bin\Debug\netstandard2.1\CApp.deps.json
+C:\Users\ferna\source\repos\Video\CApp\CApp\bin\Debug\netstandard2.1\CApp.dll
+C:\Users\ferna\source\repos\Video\CApp\CApp\bin\Debug\netstandard2.1\CApp.pdb
+C:\Users\ferna\source\repos\Video\CApp\CApp\obj\Debug\netstandard2.1\CApp.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\Video\CApp\CApp\obj\Debug\netstandard2.1\CApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\Video\CApp\CApp\obj\Debug\netstandard2.1\CApp.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\Video\CApp\CApp\obj\Debug\netstandard2.1\CApp.AssemblyInfo.cs
+C:\Users\ferna\source\repos\Video\CApp\CApp\obj\Debug\netstandard2.1\CApp.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Video\CApp\CApp\obj\Debug\netstandard2.1\CApp.dll
+C:\Users\ferna\source\repos\Video\CApp\CApp\obj\Debug\netstandard2.1\CApp.pdb
